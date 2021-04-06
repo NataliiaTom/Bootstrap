@@ -1,0 +1,28 @@
+.navbar {
+  background-color: white !important;
+}
+.header-text-font {
+  font-family: "Roboto", sans-serif;
+}
+.btn-lg {
+  background-color: Coral;
+  color: white;
+}
+.section1 {
+  background-color: #525252;
+  color: white;
+  font-family: "Roboto", sans-serif;
+}
+.section2 {
+  background-color: #f8f9fa;
+  font-family: "Roboto", sans-serif;
+}
+.footer {
+  background-color: #525252;
+  color: white;
+}
+.footer .btn {
+  background-color: Coral;
+  color: white;
+  font-family: "Roboto", sans-serif;
+}
